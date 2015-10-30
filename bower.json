@@ -1,0 +1,27 @@
+{
+  "name": "sound-redux",
+  "description": "gg",
+  "main": "index.js",
+  "authors": [
+    "me"
+  ],
+  "license": "mit",
+  "keywords": [
+    "more"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "homepage": "soundrotterdam",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
